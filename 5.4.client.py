@@ -8,7 +8,7 @@ bufferSize = 4096 #send 4096 bytes each time step
 
 filename = "ClientProfile.txt" #the name of file we want to send from the same directory
 filesize = os.path.getsize(filename)
-#/home/maribelajar/ITT440/Lab-5/ClientProfile.txt
+
 
 port = 8080
 
